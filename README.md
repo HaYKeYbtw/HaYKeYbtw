@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=860f22&height=80&section=header" />
 
+<div align="center">
+  <img height="500" src="https://umbrelladev.cc/artwork.png" alt="umbrella" />
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&color=CF3050&center=true&vCenter=true&width=520&pause=1000&lines=hey%2C+i%27m+HaYKeY+%F0%9F%91%8B%3Bwindows+tooling+%26+software+engineering%3Bbuilding+stuff+that+works" alt="Typing SVG" />
 </p>
@@ -32,10 +36,6 @@
     <img src="https://img.shields.io/badge/discord-0f0f0f?style=for-the-badge&logo=discord&logoColor=cf3050" alt="Discord" />
   </a>
 </p>
-
-<div align="center">
-  <img height="500" src="https://umbrelladev.cc/artwork.png" alt="umbrella" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=860f22&height=2" />
 
